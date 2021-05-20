@@ -1,0 +1,16 @@
+C:\workspace\New.bank\bin\Debug\net5.0\New.Bank.exe
+C:\workspace\New.bank\bin\Debug\net5.0\New.Bank.deps.json
+C:\workspace\New.bank\bin\Debug\net5.0\New.Bank.runtimeconfig.json
+C:\workspace\New.bank\bin\Debug\net5.0\New.Bank.runtimeconfig.dev.json
+C:\workspace\New.bank\bin\Debug\net5.0\New.Bank.dll
+C:\workspace\New.bank\bin\Debug\net5.0\ref\New.Bank.dll
+C:\workspace\New.bank\bin\Debug\net5.0\New.Bank.pdb
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.csprojAssemblyReference.cache
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.AssemblyInfoInputs.cache
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.AssemblyInfo.cs
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.csproj.CoreCompileInputs.cache
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.dll
+C:\workspace\New.bank\obj\Debug\net5.0\ref\New.Bank.dll
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.pdb
+C:\workspace\New.bank\obj\Debug\net5.0\New.Bank.genruntimeconfig.cache
